@@ -11,7 +11,7 @@ summary:
 
 ## Overview
 
-LoopBack _components_ are predefined packages that extend a basic LoopBack application.
+LoopBack _components_ are predefined packages that extend a basic LoopBack application.(test)
 Fundamentally, a component is related code bundled together as a unit to enable LoopBack applications for easy reuse.  
 You can configure components declaratively in [`component-config.json`](component-config.json).
 
